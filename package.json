@@ -1,0 +1,21 @@
+{
+  "name": "beardedviking-vscode-theme",
+  "displayName": "beardedviking-vscode-theme",
+  "description": "Dark Theme add more descr later",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bearded Viking Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bearded Viking Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
