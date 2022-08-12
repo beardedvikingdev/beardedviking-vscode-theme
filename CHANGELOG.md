@@ -1,7 +1,4 @@
-# Change Log
+### Changelog 
 
-All notable changes to the "beardedviking-vscode-theme" extension will be documented in this file.
+ All notable changes to this project will be documented in this file. Dates are displayed in UTC.
 
-## [Unreleased]
-
-- Initial release
