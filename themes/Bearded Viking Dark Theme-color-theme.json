@@ -209,6 +209,13 @@
       }
     },
     {
+      "name": "Function, Special Method, python",
+      "scope": ["meta.function-call.generic.python"],
+      "settings": {
+        "foreground": "#0A9396"
+      }
+    },
+    {
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
