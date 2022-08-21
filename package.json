@@ -4,10 +4,6 @@
   "description": "Dark Theme add more descr later",
   "version": "0.0.1",
   "publisher": "BeardedViking",
-  "scripts": {
-    "changelog": "changelog-machine --config changelog.config.json",
-    "version": "npm run changelog && git add CHANGELOG.md"
-  },
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -22,8 +18,5 @@
         "path": "./themes/Bearded Viking Dark Theme-color-theme.json"
       }
     ]
-  },
-  "devDependencies": {
-    "changelog-machine": "^1.0.2"
   }
 }
