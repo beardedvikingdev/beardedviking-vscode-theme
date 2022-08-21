@@ -18,5 +18,16 @@
         "path": "./themes/Bearded Viking Dark Theme-color-theme.json"
       }
     ]
+  },
+  "homepage": "https://github.com/beardedvikingdev/beardedviking-vscode-theme/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beardedvikingdev/beardedviking-vscode-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues"
+  },
+  "author": {
+    "name": "Bearded Viking"
   }
 }
