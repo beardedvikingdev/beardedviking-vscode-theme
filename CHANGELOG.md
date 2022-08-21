@@ -1,4 +1,15 @@
-### Changelog 
+# 0.1.0 (2022-08-21)
 
- All notable changes to this project will be documented in this file. Dates are displayed in UTC.
+
+### Features
+
+* add changelog generator ([427576e](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/427576e93f7f6062616a7f3ca4ddd26ca52e57bf))
+* add first set of colors ([#8](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/8)) ([3cce225](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/3cce225bc48630d465463eba8a9f902288abd116))
+* add icon for theme ([#16](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/16)) ([b73fbf2](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/b73fbf2b1a12144a5f73972f0f341d6ae685ea10))
+* add publisher id ([#4](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/4)) ([b6bd6f7](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/b6bd6f7c55218c440b27712d2a148845d126d1f3))
+* auto changelog ([#14](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/14)) ([3a8b597](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/3a8b597338703443c86464654976ab2073b52b18))
+* setup project from generator ([3b83be5](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/3b83be5060d35de03bc3ec543d152ea2ccf9cad4))
+* vscode settings and reformat ([#7](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/7)) ([a9f415f](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/a9f415fa05e141e4bc8a42c7985287e26c6646d1))
+
+
 
