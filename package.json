@@ -19,6 +19,7 @@
       }
     ]
   },
+  "icon": "bearded-viking.png",
   "homepage": "https://github.com/beardedvikingdev/beardedviking-vscode-theme/blob/main/README.md",
   "repository": {
     "type": "git",
