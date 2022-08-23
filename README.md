@@ -5,6 +5,6 @@
   <br>
 </h1>
 
-## Font Recommendation
+### Font Recommendation
 
 Tested with [cascadia code font](https://github.com/microsoft/cascadia-code)
