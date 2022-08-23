@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.2.0...v0.2.1) (2022-08-23)
+
+
+### Bug Fixes
+
+* change color for obj meta ([#18](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/18)) ([8128702](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/8128702c403dae19e337b04ad233e59fe8e0c485))
+
+
+
 # [0.2.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.1.0...v0.2.0) (2022-08-23)
 
 
