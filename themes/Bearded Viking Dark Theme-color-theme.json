@@ -688,7 +688,7 @@
       }
     },
     {
-      "name": "? vue ?",
+      "name": "Object - keys",
       "scope": [
         "meta.object-literal.key.js",
         "meta.object.member.js",
