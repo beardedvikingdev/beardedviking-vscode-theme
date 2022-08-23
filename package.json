@@ -1,7 +1,7 @@
 {
   "name": "beardedviking-vscode-theme",
   "displayName": "beardedviking-vscode-theme",
-  "description": "Dark Theme add more descr later",
+  "description": "Dark Theme with a wintery feeling :)",
   "version": "0.1.0",
   "publisher": "BeardedViking",
   "engines": {
@@ -9,6 +9,13 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "bearded viking Theme",
+    "bearded viking",
+    "BeardedViking",
+    "BeardedVikingDev",
+    "Dark Theme"
   ],
   "contributes": {
     "themes": [
@@ -20,6 +27,10 @@
     ]
   },
   "icon": "bearded-viking.png",
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "dark"
+  },
   "homepage": "https://github.com/beardedvikingdev/beardedviking-vscode-theme/blob/main/README.md",
   "repository": {
     "type": "git",
