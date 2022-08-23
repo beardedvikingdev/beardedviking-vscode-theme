@@ -686,6 +686,23 @@
       "settings": {
         "foreground": "#EEFFFF"
       }
+    },
+    {
+      "name": "? vue ?",
+      "scope": [
+        "meta.object-literal.key.js",
+        "meta.object.member.js",
+        "meta.objectliteral.js",
+        "meta.object.member.js",
+        "meta.objectliteral.js",
+        "meta.export.default.js",
+        "source.js",
+        "meta.embedded.block.html",
+        "text.html.derivative"
+      ],
+      "settings": {
+        "foreground": "#94d2bd"
+      }
     }
   ]
 }
