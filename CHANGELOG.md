@@ -1,4 +1,13 @@
-# 0.1.0 (2022-08-21)
+# [0.2.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.1.0...v0.2.0) (2022-08-23)
+
+
+### Features
+
+* add theme information ([#17](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/17)) ([c68c423](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/c68c4238f5a6b95532e52d11021fb28fb5b29c0d))
+
+
+
+# [0.1.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/3b83be5060d35de03bc3ec543d152ea2ccf9cad4...v0.1.0) (2022-08-21)
 
 
 ### Features
