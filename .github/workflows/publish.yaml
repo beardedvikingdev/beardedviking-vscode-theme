@@ -1,9 +1,9 @@
 name: Deploy Theme
 
 on:
-  push:
-    tags:
-      - "*"
+  workflow_run:
+    workflows: ["Release"]
+    types: [completed]
 
 jobs:
   publish:
