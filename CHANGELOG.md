@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.2.1...v0.3.0) (2022-08-24)
+
+
+### Features
+
+* deploy action to marketplace ([#22](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/22)) ([ce05fd9](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/ce05fd968ff4b57f9f67da7d8736db8b51978c2c))
+
+
+
 ## [0.2.1](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.2.0...v0.2.1) (2022-08-23)
 
 
