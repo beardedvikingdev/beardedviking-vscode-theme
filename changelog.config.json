@@ -1,4 +1,0 @@
-{
-    "repositoryUrl": "https://github.com/beardedvikingdev/beardedviking-vscode-theme",
-    "blacklistPattern": "^Release \\d+\\.\\d+\\.\\d+|^\\d+\\.\\d+\\.\\d+$"
-  }
