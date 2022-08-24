@@ -1,3 +1,12 @@
+## [0.5.2](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.5.1...v0.5.2) (2022-08-24)
+
+
+### Bug Fixes
+
+* change color of marketplace bg ([#27](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/27)) ([d705440](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/d70544068379d1a23688daf52c13c4956967f9fe))
+
+
+
 ## [0.5.1](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.5.0...v0.5.1) (2022-08-24)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * deploy action to marketplace ([#22](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/22)) ([ce05fd9](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/ce05fd968ff4b57f9f67da7d8736db8b51978c2c))
-
-
-
-## [0.2.1](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.2.0...v0.2.1) (2022-08-23)
-
-
-### Bug Fixes
-
-* change color for obj meta ([#18](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/18)) ([8128702](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/8128702c403dae19e337b04ad233e59fe8e0c485))
 
 
 
