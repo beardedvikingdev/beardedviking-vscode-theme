@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.3.0...v0.4.0) (2022-08-24)
+
+
+### Features
+
+* demo files ([#23](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/23)) ([9404b2c](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/9404b2cddde87fa4e0f303e89b414a72bb824781))
+
+
+
 # [0.3.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.2.1...v0.3.0) (2022-08-24)
 
 
