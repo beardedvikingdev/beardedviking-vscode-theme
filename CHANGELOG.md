@@ -1,3 +1,12 @@
+## [0.5.1](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.5.0...v0.5.1) (2022-08-24)
+
+
+### Bug Fixes
+
+* remove success check ([#26](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/26)) ([4c1f8ad](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/4c1f8ad20fd6056fa67ae49fbffc6d1569534762))
+
+
+
 # [0.5.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.4.0...v0.5.0) (2022-08-24)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * change color for obj meta ([#18](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/18)) ([8128702](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/8128702c403dae19e337b04ad233e59fe8e0c485))
-
-
-
-# [0.2.0](https://github.com/beardedvikingdev/beardedviking-vscode-theme/compare/v0.1.0...v0.2.0) (2022-08-23)
-
-
-### Features
-
-* add theme information ([#17](https://github.com/beardedvikingdev/beardedviking-vscode-theme/issues/17)) ([c68c423](https://github.com/beardedvikingdev/beardedviking-vscode-theme/commit/c68c4238f5a6b95532e52d11021fb28fb5b29c0d))
 
 
 
