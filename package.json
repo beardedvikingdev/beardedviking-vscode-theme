@@ -4,6 +4,9 @@
   "description": "Dark Theme with a wintery feeling :)",
   "version": "0.4.0",
   "publisher": "BeardedViking",
+  "scripts": {
+    "deploy": "vsce publish"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -41,5 +44,8 @@
   },
   "author": {
     "name": "Bearded Viking"
+  },
+  "devDependencies": {
+    "vsce": "^2.10.2"
   }
 }
