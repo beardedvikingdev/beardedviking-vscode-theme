@@ -2,7 +2,7 @@
   "name": "beardedviking-vscode-theme",
   "displayName": "Bearded Viking Theme",
   "description": "Dark Theme with a wintery feeling :)",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "publisher": "BeardedViking",
   "scripts": {
     "deploy": "vsce publish"
