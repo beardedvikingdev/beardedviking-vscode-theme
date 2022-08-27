@@ -12,6 +12,14 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=BeardedViking.beardedviking-vscode-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads/BeardedViking.beardedviking-vscode-theme.svg" alt="Downloads"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beardedvikingdev/beardedviking-vscode-theme/main/theme-preview.png" alt="Bearded Viking Theme preview" />
+
+screenshot taken from [vscode.dev](https://vscode.dev/theme/beardedviking.beardedviking-vscode-theme/Bearded%20Viking%20Dark%20Theme)
+
+</p>
+<hr />
+
 ### Installation
 
 1. Install and launch[Visual Studio Code](https://code.visualstudio.com/)
